@@ -2,7 +2,7 @@ import 'dart:io';
 
 main() {
   int i = 0;
-  bool pengulangan = true;
+  // bool pengulangan = true;
 
   stdout.write("isi status bool untuk melanjutkan perulangan : ");
   bool ulang = bool.parse(stdin.readLineSync()!);

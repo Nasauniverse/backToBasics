@@ -5,7 +5,7 @@ int rumus(int sisi){
 }
 
 String nama (String first, String last) {
-  return "${first + last}";
+  return first + last;
 }
 
 void main (){

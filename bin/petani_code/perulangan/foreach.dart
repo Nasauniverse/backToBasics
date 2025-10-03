@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main (){
   var lenguages = ["Jawa", "Sunda", "Makasar", "Batak"];
